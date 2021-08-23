@@ -20,7 +20,7 @@
     "nodegit": "^0.18.3",
     "rimraf": "^2.6.1",
     "stats-analysis": "^2.0.0",
-    "snyk": "^1.473.0"
+    "snyk": "^1.518.0"
   },
   "snyk": true
 }
